@@ -1,2 +1,2 @@
-# AWS-Computing
-Had documents of computing services in AWS
+# AWS-Cloud -Computing
+Have AWS Cloud computing activites on services.
